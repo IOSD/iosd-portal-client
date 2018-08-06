@@ -2594,3 +2594,10 @@ a.text-dark:hover, a.text-dark:focus {
   background: #e9d1c5;
   padding: 20px;
   color: #563323; }
+
+.go-dashboard button {
+  color: white; }
+
+.img-book {
+  width: 100%;
+  height: 250px; }

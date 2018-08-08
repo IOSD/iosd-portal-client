@@ -1,12 +1,13 @@
 import React, {Component} from 'react';
 import {Card, Row, Col, Form, Input, Button, Upload, Icon, Divider, message} from 'antd' ;
 import {Link} from 'react-router-dom' ;
+import server from '../../../actions/server.config';
 const FormItem = Form.Item;
 const {TextArea} = Input;
 
 const props = {
     name: 'file',
-    action: 'http://localhost:5000/api/v1/uploads'
+    action: `${server.base_url}/api/v1/uploads`
 };
 
 class BookForm extends Component {

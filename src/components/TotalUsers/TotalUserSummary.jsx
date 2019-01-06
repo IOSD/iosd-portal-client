@@ -16,11 +16,11 @@ class TotalUserSummary extends Component {
                 <Col span={16} className='header'>
                     Total User
                     <p>
-                         View Users
+                        View Users
                     </p>
                 </Col>
             </Row>
-        )
+        );
 
 
         return (

@@ -9,6 +9,8 @@ const monthNames = ["January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"
 ];
 
+// TODO : Implement Single Blog Post
+
 class BlogComponent extends Component {
 
     componentWillMount() {

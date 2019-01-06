@@ -3,7 +3,7 @@ import {Card, Row, Col} from 'antd' ;
 import {connect} from "react-redux";
 import {fetchEvents} from "../../actions/eventActions";
 import isEmpty from 'lodash/isEmpty' ;
-
+import {Link} from 'react-router-dom';
 
 class EventSummary extends Component {
     state = {
@@ -35,7 +35,7 @@ class EventSummary extends Component {
                         <div key={index}>
                             <p className="date">{event.date}</p>
                             <p className="name">
-                                <a>{event.title}</a>
+                                <Link to={'/events/'}>{event.title}</Link>
                             </p>
                         </div>
                     );

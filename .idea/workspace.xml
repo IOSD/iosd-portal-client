@@ -2,112 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca7f3230-872f-4c02-b5cc-d6b66d4d29f6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/iosd-portal-client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/mentorActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AdminRouter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TotalUsers/TotalUsers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TotalUsers/UsersDetails.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TotalUsers/UsersList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TotalUsers/UsersNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/Blogs/BlogDetails.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/Blogs/BlogNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/Blogs/Blogs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/Blogs/BlogsList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/css/courses.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/css/courses.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/css/events.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/css/player.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/admin/css/player.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/auth/Logout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/AddVideoForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/CourseAdd.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/CourseEdit.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/CourseNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/Courses.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/CoursesList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/EditableFormRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/admin/EditableTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/courses/common/CourseCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dashboard/admin/AdminDashboard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dashboard/admin/BlogSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dashboard/admin/CoursesSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dashboard/admin/LibrarySummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/events/admin/EventAdd.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/events/admin/EventEdit.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/events/admin/EventNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/events/admin/Events.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/events/admin/EventsList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/events/admin/EventsSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/admin/BookAdd.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/admin/BookEdit.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/admin/BookNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/admin/Library.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mentors/admin/MentorAdd.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mentors/admin/MentorEdit.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mentors/admin/MentorNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mentors/admin/MentorSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mentors/admin/Mentors.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mentors/admin/MentorsList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/admin/ProjectAdd.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/admin/ProjectEdit.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/admin/ProjectNewForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/admin/ProjectSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/admin/Projects.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/admin/ProjectsList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/requireAuthAdmin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/authActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/authActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/blogActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/blogActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/courseAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/courseActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/eventActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/eventActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/libraryActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/libraryActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/mentorAction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/profileActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/profileActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/projectActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/projectActions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/server.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/server.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog/blog.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog/BlogList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/dashboard.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/Dashboard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/common/course-card.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/common/course-content.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/courses/common/CourseContent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/common/course-overview.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/courses/common/CourseOverview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/common/player.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/courses/common/Player.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/course-detail.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/courses/CourseDetails.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/courses.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/courses/Courses.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/videos.data.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/courses/videos.data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/blog-summary.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/BlogSummary.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/contribute-card.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/ContributeCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/courses-summary.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/CoursesSummary.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/events-summary.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/EventSummary.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/mentor-list.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/MentorList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/dashboard/profile-card.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/ProfileCard.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/events/events.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/events/Events.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/library/books.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/library/library.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/LibraryBookList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/profile/profile.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/profile/profile.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/router.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Router.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/authReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/authReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/courseReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/courseReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/eventReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/eventReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/libraryReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/libraryReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/mentorReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/mentorReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/profileReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/profileReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/projectReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/projectReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/blog/BlogList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog/BlogList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/courses/common/CourseOverview.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/courses/common/CourseOverview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/BlogSummary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/BlogSummary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/CoursesSummary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/CoursesSummary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/EventSummary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/EventSummary.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/ProfileCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/ProfileCard.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -121,54 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProjectEdit.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectEdit.jsx">
+      <file leaf-file-name="server.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/server.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="40">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projectReducer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reducers/projectReducer.js">
+      <file leaf-file-name="ProfileCard.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/dashboard/ProfileCard.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="libraryActions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/actions/libraryActions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1051">
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Projects.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/admin/Projects.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContributeCard.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/dashboard/ContributeCard.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2771">
+            <state relative-caret-position="709">
+              <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -176,61 +48,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProjectsList.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectsList.jsx">
+      <file leaf-file-name="eventActions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/eventActions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="112" column="53" selection-start-line="112" selection-start-column="53" selection-end-line="112" selection-end-column="53" />
+            <state relative-caret-position="1100">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="authActions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/authActions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminRouter.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/AdminRouter.jsx">
+      <file leaf-file-name="courseActions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/courseActions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TotalUsers.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/TotalUsers/TotalUsers.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TotalUserSummary.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectSummary.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectSummary.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -250,6 +94,8 @@
       <find>repo-</find>
       <find>/mentors/lis</find>
       <find>repo</find>
+      <find>summar</find>
+      <find>.blog-l</find>
     </findStrings>
     <replaceStrings>
       <replace>// console.log(res.data);</replace>
@@ -265,12 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/dashboard/ContributeCard.jsx" />
-        <option value="$PROJECT_DIR$/src/components/courses/common/player.component.js" />
-        <option value="$PROJECT_DIR$/src/components/courses/common/course-content.component.js" />
-        <option value="$PROJECT_DIR$/src/components/admin/Courses/EditableTable.js" />
-        <option value="$PROJECT_DIR$/src/components/blog/BlogList.jsx" />
-        <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/components/Home.jsx" />
         <option value="$PROJECT_DIR$/src/components/courses/admin/Courses.jsx" />
         <option value="$PROJECT_DIR$/src/components/courses/admin/CourseAdd.jsx" />
@@ -281,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/components/courses/admin/CourseEdit.jsx" />
         <option value="$PROJECT_DIR$/src/components/courses/admin/EditableTable.js" />
         <option value="$PROJECT_DIR$/src/components/courses/common/CourseContent.jsx" />
-        <option value="$PROJECT_DIR$/src/components/courses/common/CourseOverview.js" />
         <option value="$PROJECT_DIR$/src/actions/courseActions.js" />
         <option value="$PROJECT_DIR$/src/components/courses/CourseDetails.jsx" />
         <option value="$PROJECT_DIR$/src/components/events/Events.jsx" />
@@ -303,7 +142,6 @@
         <option value="$PROJECT_DIR$/src/components/mentors/admin/MentorNewForm.jsx" />
         <option value="$PROJECT_DIR$/src/components/mentors/admin/MentorEdit.jsx" />
         <option value="$PROJECT_DIR$/src/components/dashboard/MentorList.jsx" />
-        <option value="$PROJECT_DIR$/src/components/App.scss" />
         <option value="$PROJECT_DIR$/src/reducers/projectReducer.js" />
         <option value="$PROJECT_DIR$/src/actions/projectActions.js" />
         <option value="$PROJECT_DIR$/src/components/dashboard/admin/AdminDashboard.jsx" />
@@ -316,6 +154,14 @@
         <option value="$PROJECT_DIR$/src/components/AdminRouter.jsx" />
         <option value="$PROJECT_DIR$/src/components/TotalUsers/TotalUsers.jsx" />
         <option value="$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/CoursesSummary.jsx" />
+        <option value="$PROJECT_DIR$/src/components/blog/BlogList.jsx" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/EventSummary.jsx" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/BlogSummary.jsx" />
+        <option value="$PROJECT_DIR$/src/components/App.scss" />
+        <option value="$PROJECT_DIR$/src/components/courses/common/CourseOverview.js" />
+        <option value="$PROJECT_DIR$/src/actions/server.config.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/ProfileCard.jsx" />
       </list>
     </option>
   </component>
@@ -336,16 +182,17 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="480" />
-    <option name="height" value="346" />
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -375,13 +222,14 @@
               <item name="iosd-portal-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iosd-portal-client" type="b2602c69:ProjectViewProjectNode" />
               <item name="iosd-portal-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="courses" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -395,26 +243,12 @@
               <item name="iosd-portal-client" type="b2602c69:ProjectViewProjectNode" />
               <item name="iosd-portal-client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="TotalUsers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iosd-portal-client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iosd-portal-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reducers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iosd-portal-client" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iosd-portal-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,27 +296,33 @@
       <workItem from="1532682175243" duration="136000" />
       <workItem from="1532682949745" duration="238000" />
       <workItem from="1533398355570" duration="8784000" />
-      <workItem from="1533417670711" duration="6269000" />
+      <workItem from="1533417670711" duration="6604000" />
+      <workItem from="1533487986867" duration="3257000" />
+      <workItem from="1533677450586" duration="76000" />
+      <workItem from="1533926765067" duration="3688000" />
+      <workItem from="1534454868403" duration="106000" />
+      <workItem from="1534456683223" duration="142000" />
+      <workItem from="1534501623522" duration="16000" />
+      <workItem from="1534502484971" duration="869000" />
+      <workItem from="1534519227445" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26597000" />
+    <option name="totallyTimeSpent" value="35098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3278867" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3278867" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3278867" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -491,6 +331,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3278867" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -500,137 +341,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/courses/admin/EditableTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="233" column="56" selection-start-line="233" selection-start-column="56" selection-end-line="233" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/courses/common/CourseOverview.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/courses/common/CourseContent.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/courses/admin/CourseAdd.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/courseActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/courses/CourseDetails.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2984">
-          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/events/Events.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="57" column="59" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/admin/eventActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" lean-forward="true" selection-end-line="80" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/eventReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="59" selection-start-column="59" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/admin/eventReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" lean-forward="true" selection-start-line="9" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/courses/admin/Courses.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/eventActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/events/admin/EventsSummary.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/events/admin/EventEdit.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,9 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,29 +373,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1036">
           <caret line="69" column="65" selection-start-line="69" selection-start-column="65" selection-end-line="69" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/admin/mentorActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="1" lean-forward="true" selection-end-line="77" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/admin/mentorActions.js" />
     <entry file="file://$PROJECT_DIR$/src/actions/mentorActions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,9 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -716,26 +409,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/admin/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin/App.scss" />
     <entry file="file://$PROJECT_DIR$/src/components/mentors/admin/MentorsList.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,9 +424,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1273">
           <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,9 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,80 +438,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="880">
           <caret line="44" column="50" lean-forward="true" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/admin/mentorReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="12" lean-forward="true" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/admin/projectActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-791">
-          <caret line="8" column="5" lean-forward="true" selection-end-line="70" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/admin/mentorReducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/actions/admin/projectActions.js" />
     <entry file="file://$PROJECT_DIR$/src/actions/projectActions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="70" column="2" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectAdd.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectNewForm.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/dashboard/admin/AdminDashboard.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectSummary.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -844,120 +470,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
           <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/dashboard/ContributeCard.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2771">
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectsList.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
+        <state relative-caret-position="2160">
           <caret line="112" column="53" selection-start-line="112" selection-start-column="53" selection-end-line="112" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/actions/libraryActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1051">
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/admin/libraryActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-951">
-          <folding>
-            <element signature="e#26#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/actions/admin/authActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/admin/authReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/admin/courseReducer.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/admin/libraryActions.js" />
+    <entry file="file://$PROJECT_DIR$/src/actions/admin/authActions.js" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/admin/authReducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/reducers/admin/courseReducer.js" />
     <entry file="file://$PROJECT_DIR$/src/components/projects/admin/ProjectEdit.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="120">
           <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reducers/admin/projectReducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="12" lean-forward="true" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/admin/projectReducer.js" />
     <entry file="file://$PROJECT_DIR$/src/reducers/projectReducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AdminRouter.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="80">
           <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TotalUsers/TotalUsers.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/admin/Blogs/BlogNewForm.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/admin/Blogs/Blogs.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/admin/Blogs/BlogsList.jsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/CoursesSummary.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/blog/BlogList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/courses/common/CourseOverview.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="176" selection-start-line="45" selection-start-column="176" selection-end-line="45" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="208" column="23" selection-start-line="208" selection-start-column="23" selection-end-line="208" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/BlogSummary.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/EventSummary.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/ContributeCard.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/server.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/eventActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/courseActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TotalUsers/TotalUsers.jsx">
+    <entry file="file://$PROJECT_DIR$/src/actions/authActions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state>
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TotalUsers/TotalUserSummary.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/ProfileCard.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        <state relative-caret-position="709">
+          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

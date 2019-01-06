@@ -43,7 +43,7 @@ class ProfileCard extends Component {
                     <Link to='/profile'>
                         <div className='card-meta'>
                             <h4 className='name'>{user.name}</h4>
-                            <h4>{user.college}</h4>
+                            <h4 >{user.college}</h4>
                         </div>
                     </Link>
                     <div className='card-meta'>

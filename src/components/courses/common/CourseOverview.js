@@ -29,31 +29,31 @@ class CourseOverview extends Component {
                                 <Row gutter={8}>
                                     <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/content-2-3ca0cdc013c2195d6fa52a3bcf51ae3c.png" alt=""/></Col>
                                     <Col className='vertical-center' span={18}>
-                                        100+ lecture Video Content
+                                         Projects Opportunity after completion
                                     </Col>
                                 </Row>
                             </Col>
                             <Col span={12}>
                                 <Row gutter={8}>
-                                    <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/content-2-3ca0cdc013c2195d6fa52a3bcf51ae3c.png" alt=""/></Col>
+                                    <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/revise-2-1aa99f735eebd43146f21a346e6d47f6.png" alt=""/></Col>
                                     <Col className='vertical-center' span={18}>
-                                        100+ lecture Video Content
+                                        Beginner Friendly
                                     </Col>
                                 </Row>
                             </Col>
                             <Col span={12}>
                                 <Row gutter={8}>
-                                    <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/content-2-3ca0cdc013c2195d6fa52a3bcf51ae3c.png" alt=""/></Col>
+                                    <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/certificate-2-c9e05e85af71218925023ee470004f83.png" alt=""/></Col>
                                     <Col className='vertical-center' span={18}>
-                                        100+ lecture Video Content
+                                        Certification of Completion
                                     </Col>
                                 </Row>
                             </Col>
                             <Col span={12}>
                                 <Row gutter={8}>
-                                    <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/content-2-3ca0cdc013c2195d6fa52a3bcf51ae3c.png" alt=""/></Col>
+                                    <Col span={6}><img className='img-responsive' src="https://online.codingblocks.com/images/support-2-faedba17764b8fc277eae632f9496736.png" alt=""/></Col>
                                     <Col className='vertical-center' span={18}>
-                                        100+ lecture Video Content
+                                        24*7 Mentor Support
                                     </Col>
                                 </Row>
                             </Col>
@@ -63,7 +63,7 @@ class CourseOverview extends Component {
                 </Col>
                 <Col span={12}>
                     <div className='header'>
-                        About Instructors
+                        Course Mentor
                     </div>
                     <div>
                         <Row gutter={16}>

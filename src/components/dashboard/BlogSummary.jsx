@@ -29,7 +29,7 @@ class BlogSummary extends Component {
                                 <Avatar size="large" src={item.thumbnail}/>
                             </div>
                             <div className='post-desc'>
-                                <strong>{item.title}</strong>
+                                <Link to={'/blog/'}><strong>{item.title}</strong></Link>
                                 <p>{item.author}</p>
                             </div>
                         </div>);

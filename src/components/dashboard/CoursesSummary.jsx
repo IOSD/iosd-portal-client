@@ -2,6 +2,7 @@ import React, {Component} from 'react' ;
 import {Card, Row, Col} from 'antd' ;
 import {connect} from "react-redux";
 import isEmpty from 'lodash/isEmpty' ;
+import {Link} from 'react-router-dom';
 
 import {fetchAllCourses} from "../../actions/courseActions";
 
@@ -32,34 +33,34 @@ class CoursesSummary extends Component {
                     COURSES WE PROVIDE
                 </p>
                 {
-                    this.props.courses.list.slice(0,5).map(course => {
+                    this.props.courses.list.slice(0, 5).map(course => {
                         return (
                             <div className="problem" key={course.id}>
-                                <a>{course.title}</a>
+                                <Link to={`/course/${course.id}`}>{course.title}</Link>
                                 <p>{course.sub_title}</p>
                             </div>
                         );
                     })
                 }
                 {/*<div className="problem">*/}
-                    {/*<a>Eminence</a>*/}
-                    {/*<p>Competitive Programming Course</p>*/}
+                {/*<a>Eminence</a>*/}
+                {/*<p>Competitive Programming Course</p>*/}
                 {/*</div>*/}
                 {/*<div className="problem">*/}
-                    {/*<a>Eminence</a>*/}
-                    {/*<p>Competitive Programming Course</p>*/}
+                {/*<a>Eminence</a>*/}
+                {/*<p>Competitive Programming Course</p>*/}
                 {/*</div>*/}
                 {/*<div className="problem">*/}
-                    {/*<a>Eminence</a>*/}
-                    {/*<p>Competitive Programming Course</p>*/}
+                {/*<a>Eminence</a>*/}
+                {/*<p>Competitive Programming Course</p>*/}
                 {/*</div>*/}
                 {/*<div className="problem">*/}
-                    {/*<a>Eminence</a>*/}
-                    {/*<p>Competitive Programming Course</p>*/}
+                {/*<a>Eminence</a>*/}
+                {/*<p>Competitive Programming Course</p>*/}
                 {/*</div>*/}
                 {/*<div className="problem">*/}
-                    {/*<a>Eminence</a>*/}
-                    {/*<p>Competitive Programming Course</p>*/}
+                {/*<a>Eminence</a>*/}
+                {/*<p>Competitive Programming Course</p>*/}
                 {/*</div>*/}
             </div>
         );

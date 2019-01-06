@@ -205,6 +205,10 @@
   margin: 5px;
 }
 
+.blog-list a {
+  text-decoration: none;
+}
+
 .repo-list .repo {
   display: flex;
   flex-flow: row nowrap;

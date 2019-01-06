@@ -66,7 +66,7 @@ class LibraryComponent extends Component {
                                     this.handleClick(item);
                                 }}>
                                     <div className="cover">
-                                        <img className='img-responsive' src={item.image} alt=""/>
+                                        <img className='img-book' src={item.image} alt=""/>
                                     </div>
                                 </Col>
                             );

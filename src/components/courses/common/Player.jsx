@@ -222,7 +222,7 @@ class PlayerComponent extends Component {
                 {this.state.playerTitle}
                 </span>
                         <div className='go-dashboard'>
-                            <Button className='button-solid' type="primary"><Link to={`/course/${courseId}`}>Go to Dashboard</Link> </Button>
+                            <Link to={`/course/${courseId}`}><Button className='button-solid' type="primary">Go to Dashboard </Button></Link>
                         </div>
 
                     </Header>

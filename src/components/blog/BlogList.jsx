@@ -44,25 +44,26 @@ class BlogComponent extends Component {
 
 
                                 <Col span={8}>
-                                    <Card className="blog-post">
-                                        <div className='blog-image' style={{
-                                            backgroundImage: `url(${post.thumbnail})`,
-                                            height: 172
-                                        }}>
+                                    <a href={post.link} target="_blank">
+                                        <Card className="blog-post">
+                                            <div className='blog-image' style={{
+                                                backgroundImage: `url(${post.thumbnail})`,
+                                                height: 172
+                                            }}>
 
-                                        </div>
-                                        <div className='blog-content'>
-                                            <div className='blog-title'>{post.title}</div>
-                                            <div className='blog-excerpt'>
-                                                {post.excerpt}
                                             </div>
-                                            <div className="blog-author">
-                                                By {post.author} <br/>
-                                                {`${post.pubDate.slice(8, 10)} ${month}`}
+                                            <div className='blog-content'>
+                                                <div className='blog-title'>{post.title}</div>
+                                                <div className='blog-excerpt'>
+                                                    {post.excerpt}
+                                                </div>
+                                                <div className="blog-author">
+                                                    By {post.author} <br/>
+                                                    {`${post.pubDate.slice(8, 10)} ${month}`}
+                                                </div>
                                             </div>
-                                        </div>
-                                    </Card>
-
+                                        </Card>
+                                    </a>
                                 </Col>
                             )
                         })

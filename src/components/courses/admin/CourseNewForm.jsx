@@ -307,7 +307,7 @@ class CourseAddForm extends Component {
                                                 </Button>
                                                 <Button
                                                     type="danger"
-                                                    onClick={() => this.props.field.resetFields()}
+                                                    onClick={() => this.props.form.resetFields()}
                                                 >
                                                     Reset
                                                 </Button>
